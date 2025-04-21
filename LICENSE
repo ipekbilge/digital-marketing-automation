@@ -1,3 +1,16 @@
+
+---
+
+### **Step 4: Add Project Media (Cover Image)**
+
+1. You can add a project cover image by uploading it directly to your repository or adding it as a media link in the `README.md`.
+   - If you're using an image, you can create a folder called `assets` or `images` and upload your cover image there.
+   
+2. Then, reference it in your `README.md`:
+
+```markdown
+![Project Cover](./assets/cover-image.png)
+
 MIT License
 
 Copyright (c) 2025 ipekbilge
